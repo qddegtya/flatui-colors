@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "flatui-colors",
+  "description": "flatui colors",
+  "version": "0.0.1",
+
+  "icons": {
+    "16": "./assets/logo-128.png",
+    "48": "./assets/logo-128.png",
+    "128": "./assets/logo-128.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "16": "./assets/ba-16.png",
+      "24": "./assets/logo-128.png",
+      "32": "./assets/logo-128.png"
+    },
+    "default_title": "mDoctor",
+    "default_popup": "./background/popup/index.html"
+  }
+}
