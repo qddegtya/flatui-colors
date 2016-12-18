@@ -1,7 +1,7 @@
 ### About
 
-chrome extention for [flatuicolors](http://flatuicolors.com/)
+chrome extension for [flatuicolors.com](http://flatuicolors.com/)
 
-### Preivew
+### Preview
 
 ![](/assets/flatui.gif)
